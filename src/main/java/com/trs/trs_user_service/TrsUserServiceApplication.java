@@ -8,7 +8,9 @@ public class TrsUserServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TrsUserServiceApplication.class, args);
-		System.out.println("hellow user");
+
+		System.out.println("Hello");
+
 	}
 
 }
